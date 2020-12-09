@@ -5,6 +5,8 @@ A simple tutorial plugin to show how to add Block Patterns to Gutenberg.
 
 **Author**: Neokazis Charalampos
 
+**Version**: 1.0
+
 #### Description:
 
 > A simple tutorial plugin to show how to add Block Patterns to Gutenberg.
@@ -24,8 +26,11 @@ A simple tutorial plugin to show how to add Block Patterns to Gutenberg.
 > **viewportWidth**: Specify the width of the pattern in the inserter.
 
 
-
-**Version**: 1.0
-
 #### Tip
 Change the content by your pattern, rename the plugin and make it yours.
+
+You only nead the "Neobabis Gutenberg Block Patterns.php" file. Convert it into a zip file and upload it as a plugin
+
+#### Current result
+
+![](Neobabis_Gutenberg_Block_Patterns.png)
