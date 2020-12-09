@@ -1,9 +1,9 @@
 # Neobabis_Gutenberg_Block_Patterns
 A simple tutorial plugin to show how to add Block Patterns to Gutenberg.
 
-Author: CreateMySite.gr
+**Author**: CreateMySite.gr
 
-Author: Neokazis Charalampos
+**Author**: Neokazis Charalampos
 
 #### Description:
 
@@ -25,7 +25,7 @@ Author: Neokazis Charalampos
 
 
 
-Version: 1.0
+**Version**: 1.0
 
 #### Tip
 Change the content by your pattern, rename the plugin and make it yours.
